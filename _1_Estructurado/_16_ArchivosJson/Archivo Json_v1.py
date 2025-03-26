@@ -6,6 +6,6 @@ if __name__ == '__main__':
 
     for persona in datos ["personas"]:
         print("Nombre:", persona["nombre"])
-        print("Edad:", persona["Edad"])
-        print("Ciudad:", persona["Ciudad"])
-        print("Estado:", persona["Estado"])
+        print("Edad:", persona["edad"])
+        print("Ciudad:", persona["ciudad"])
+        print("Estado:", persona["estado"])
