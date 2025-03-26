@@ -1,0 +1,16 @@
+{
+  "personas": [
+    {
+      "nombre": "Federico Peluche",
+      "edad": 45,
+      "cuidad": "San Martin Texmelucan",
+      "estado": "puebla"
+    },
+    {
+      "nombre": "Federico Peluche",
+      "edad": 45,
+      "cuidad": "San Martin Texmelucan",
+      "estado": "puebla"
+    }
+  ]
+}
