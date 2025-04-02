@@ -1,0 +1,33 @@
+{
+  "personas": [
+    {
+      "id": "22245638",
+      "nombre": "Edwin Jimenez",
+      "edad": 32,
+      "RFC": "HSLEU38725"
+    },
+    {
+      "id": "22242973",
+      "nombre": "Chiwiwis Rodrigues",
+      "edad": 16,
+      "RFC": "GSMO25389E"
+    },
+    {
+      "id": "22245194",
+      "nombre": "Benito Camela",
+      "edad": 18,
+      "RFC": "BVIOS45283"
+    },
+    {
+      "id": "22243856",
+      "nombre": "Alma Marcela",
+      "edad": 34,
+      "RFC": "SBKDUTA261"
+    },{
+      "id": "22246392",
+      "nombre": "Edgar Eli",
+      "edad": 56,
+      "RFC": "NSTAL25196"
+    }
+  ]
+}
